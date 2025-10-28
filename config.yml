@@ -1,0 +1,7 @@
+title: LJ Connolly
+description: Include a brief description of your portfolio here.
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
